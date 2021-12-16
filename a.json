@@ -26,7 +26,7 @@
     "mode_ads_interstitial" : "admob",
     "mode_ads_native" : "admob",
     "mode_ads_rewarded" : "admob",
-    "one_signal_app_id" : "1779a82d-b5b8-43f8-8338-733e1694c3d0",
+    "one_signal_app_id" : "cf38379c-1e6d-40bf-99ad-ce153c1046ff",
 
     "update" : {
       "enable_update_closed" : true,
