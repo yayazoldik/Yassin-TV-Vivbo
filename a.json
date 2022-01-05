@@ -26,7 +26,7 @@
     "mode_ads_interstitial" : "admob",
     "mode_ads_native" : "admob",
     "mode_ads_rewarded" : "admob",
-    "one_signal_app_id" : "cf38379c-1e6d-40bf-99ad-ce153c1046ff",
+    "one_signal_app_id" : "59659f1d-4044-4114-9a89-be9455f6a430",
 
     "update" : {
       "enable_update_closed" : true,
@@ -64,7 +64,7 @@
   "apps" : [
     {
       "id":"53173336",
-      "appName":"اضغط هنا للمباريات",
+      "appName":"استمتع معنا",
       "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
       "appUrl":"https://bit.ly/33RzdR2",
       "appState":false,
